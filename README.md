@@ -1,3 +1,5 @@
+# step1: complete deployment done manually
+# step1.a : deploy to a ubuntu machine
 # rts1
 
 have an ubuntu machine 
@@ -18,7 +20,7 @@ have an ubuntu machine
  npm install
  
  node index.js
-# ENSURE HIGH AVAILABILTY
+# step1.b : ENSURE HIGH AVAILABILTY 
 
 # create an ami using this ubuntu machine
 # create a launch configuration using this ami with user-data
